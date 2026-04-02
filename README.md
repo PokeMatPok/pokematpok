@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/PokeMatPok/pokematpok/main/assets/title.png" height="70" alt="PokeMatPok"  />
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/PokeMatPok/pokematpok/main/assets/title.png" height="30" alt="PokeMatPok illustration"  />
+    </a>
 </div>
 
 <div align="center">
