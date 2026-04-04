@@ -4,7 +4,7 @@
             transition: all 0.3s;
             transform-origin: 282px 26px;
 
-            animation: wiggle 2s infinite linear;
+            animation: wiggle 3s infinite linear;
         }
 
         .hitbox {
