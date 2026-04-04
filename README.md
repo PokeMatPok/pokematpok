@@ -21,7 +21,7 @@
 </div>
 
 <!-- side sections, look good in my vision, let's see -->
-<details>
+<details open>
 <summary>
 <!-- link wrapper to preent going to image site on click -->
     <a href="#">
@@ -38,7 +38,7 @@ of my repositories or have ideas for new features. I’m always open to feedback
 </details>
 
 <div align="right">
-<details>
+<details open>
 <summary>
 <!-- link wrapper to preent going to image site on click -->
     <a href="#">
@@ -52,5 +52,37 @@ of my repositories or have ideas for new features. I’m always open to feedback
         ;origin14: Automatic analytics integration" />
     </a>
 </details>
+</div>
 
+<div align="center">
+<img src="assets\stack_title.svg" alt="Tech stack" />
+</div>
+
+<div align="center">
+<h3>Frontend</h3>
+</div>
+
+<div align="center">
+<img src="assets\stack_svelte.svg" alt="Svelte" />
+<img src="assets\stack_vue.svg" alt="Vue" />
+</div>
+
+<div align="center">
+<h3>Backend</h3>
+</div>
+
+<div align="center">
+<img src="assets\stack_node.svg" alt="Node.js" />
+<img src="assets\stack_express.svg" alt="Express.js" />
+<img src="assets\stack_go.svg" alt="Golang" />
+</div>
+
+<div align="center">
+<h3>Languages</h3>
+</div>
+
+<div align="center">
+<img src="assets\stack_ts.svg" alt="Typescript" />
+<img src="assets\stack_python.svg" alt="Python" />
+<img src="assets\stack_go.svg" alt="Golang" />
 </div>
