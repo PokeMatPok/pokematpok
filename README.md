@@ -54,17 +54,23 @@ of my repositories or have ideas for new features. I’m always open to feedback
 </details>
 </div>
 
-<div align="center">
-<img src="assets\stack_title.svg" alt="Tech stack" />
-</div>
-
-<div align="center">
+<details open>
+<summary>
+<!-- link wrapper to preent going to image site on click -->
+    <a href="#">
+        <div align="center">
+            <img src="assets\stack_title.svg" alt="Tech stack" />
+        </div>
+    </a>
+</summary>
+        <div align="center">
 <h3>Frontend</h3>
 </div>
-
 <div align="center">
+    <a href="#">    
 <img src="assets\stack_svelte.svg" alt="Svelte" />
 <img src="assets\stack_vue.svg" alt="Vue" />
+</a>
 </div>
 
 <div align="center">
@@ -72,17 +78,22 @@ of my repositories or have ideas for new features. I’m always open to feedback
 </div>
 
 <div align="center">
+    <a href="#">    
 <img src="assets\stack_node.svg" alt="Node.js" />
 <img src="assets\stack_express.svg" alt="Express.js" />
 <img src="assets\stack_go.svg" alt="Golang" />
+    </a>
 </div>
 
 <div align="center">
 <h3>Languages</h3>
 </div>
-
+  
 <div align="center">
+    <a href="#">  
 <img src="assets\stack_ts.svg" alt="Typescript" />
 <img src="assets\stack_python.svg" alt="Python" />
 <img src="assets\stack_go.svg" alt="Golang" />
+    </a>
 </div>
+</details>
