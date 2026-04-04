@@ -23,8 +23,16 @@
 <!-- side sections, look good in my vision, let's see -->
 <details>
 <summary>
-<img src="assets\about_me_expandable.svg" alt="Typing SVG" />
+<!-- link wrapper to preent going to image site on click -->
+    <a href="#">
+        <img src="assets\about_me_expandable.svg" alt="About me title clickable" />
+    </a>
 </summary>
-
-<img src="assets\about_me_expanded.svg" alt="Typing SVG" />
+    <a href="#">    
+        <img src="assets\about_me_expanded.svg" alt="Content: Hey, I’m Matthias, a student from Germany who has been actively building and
+maintaining software for the past few years. I’m passionate about programming, and I
+spend most of my free time working on projects, learning new technologies,
+and improving my skills. Feel free to reach out, especially if you notice an issue in one
+of my repositories or have ideas for new features. I’m always open to feedback and collaboration." />
+    </a>
 </details>
