@@ -11,3 +11,9 @@ https://www.figma.com/design/Qoy1GN2XPwVMVILHILuUKu/hack-club?node-id=0-1&t=AjGQ
 
 ## Reddit banner
 https://www.figma.com/design/MJeojenTidzirrxDKTnsKY/reddit?node-id=0-1&t=eTU5B0NYLoYVuW75-1
+
+## About me section
+https://www.figma.com/design/xqTxk31FlOfLkNBftszmm3/gh-profile-about-me?node-id=0-1&t=FjsOWl7A6yngqGpn-1
+
+## Working on section
+https://www.figma.com/design/udccIw3rmeDQ2Qp3e9OWU0/gh-profile-working-on?node-id=1-2&t=0oaPthQZvxjsZciX-1
