@@ -65,7 +65,7 @@
     <h3>Backend</h3>
   </div>
   <div align="center">
-    <a href="#readme"><img src="assets/stack_node.svg" alt="Node.js" /></a><a href="#readme"><img src="assets/stack_express.svg" alt="Express.js" /></a>
+    <a href="#readme"><img src="assets/stack_node.svg" alt="Node.js" /></a><a href="#readme"><img src="assets/stack_express.svg" alt="Express.js" /></a><a href="#readme"><img src="assets/stack_laravel.svg" alt="Laravel" /><a href="#readme"><img src="assets/stack_mysql.svg" alt="MySQL" />
   </div>
 
   <div align="center">

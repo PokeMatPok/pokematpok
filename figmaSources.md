@@ -17,3 +17,6 @@ https://www.figma.com/design/xqTxk31FlOfLkNBftszmm3/gh-profile-about-me?node-id=
 
 ## Working on section
 https://www.figma.com/design/udccIw3rmeDQ2Qp3e9OWU0/gh-profile-working-on?node-id=1-2&t=0oaPthQZvxjsZciX-1
+
+## Tech stack section
+https://www.figma.com/design/Jo6uyfZitA01XBtXa9nbab/Untitled?node-id=4-69&t=YCGv7KwxZPPKUt3o-1
